@@ -1,0 +1,41 @@
+.first-head{
+    color: #ffffff;
+    font-size: 45px;
+}
+.home-top{
+    height: 40vh;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    padding: 10px;
+}
+.first-para{
+    color: #ffffff;
+    font-size: 25px;
+
+}
+.background{
+    font-family:italic;
+
+}
+.center{
+    font-size: 60px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+.bottom{
+    text-align: center;
+    margin: 100px;
+    padding: 10px;
+}
+.head-name{
+    font-size: 30px;
+    margin-right: 20px;
+}
+.text
+{
+    width: 400px;
+    height: 35px;
+    border-style: solid;
+    border-width: 3px;
+}

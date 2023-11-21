@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  .options {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .options li {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    cursor: pointer;
+  }
+  
+  .head{
+    font-family:italic;
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+  }
+  .background
+  {
+    margin: 40px;
+  }
+  .question{
+    margin-top: 50px;
+  }
+  .but{
+    margin-right: 20px;
+  }
+  .bg-container
+  {
+    background-image: url("./bg.jpg");
+    background-size: cover;
+    height: 100vh;
+  }

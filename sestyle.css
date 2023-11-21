@@ -1,0 +1,45 @@
+.litems{
+    list-style-type:number ;
+}
+.head-c{
+    border-bottom-left-radius: 1000px;
+    border-bottom-right-radius: 1000px;
+    height: 35vh;
+    font-style: italic;
+}
+.head{
+    font-size: 40px;
+}
+.small{
+    background-color: #fff7f7;
+    height: 230px;
+    width: 200px;
+    margin-left: 100px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(60, 0, 255);
+}
+.b-1{
+    margin: 70px;
+    margin-left: 290px;
+}
+.bottom
+{
+    text-align: center;
+}
+.img{
+    height: 160px;
+    width: 195px;
+    margin-bottom: 10px;
+}
+.bg-container{
+    
+
+}
+.head-c{
+    background-image: url("./BG2.jpeg");
+    background-size: cover;
+}
+.para{
+    font-weight: bold;
+}
